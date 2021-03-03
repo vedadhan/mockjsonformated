@@ -1,4 +1,4 @@
-[
+
 {
  "id": 1,
  "name": "Leanne Graham",
@@ -52,5 +52,4 @@
  "tax": "28%",
  "exchange": 6000,
  "final": "INR 10000"
- },
-]
+ }
