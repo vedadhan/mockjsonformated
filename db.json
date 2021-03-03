@@ -1,0 +1,56 @@
+[
+{
+ "id": 1,
+ "name": "Leanne Graham",
+ "description": "Desc Leanne Graham",
+ "price": "USD 15",
+ "unit": "Pre-container",
+ "tax": "18%",
+ "exchange": 1000,
+ "final": "INR 100"
+ },
+ 
+{
+ "id": 2,
+ "name": "Ervin Howell",
+ "description": "Desc Ervin Howell",
+ "price": "USD 25",
+ "unit": "Pre-container",
+ "tax": "14%",
+ "exchange": 1010,
+ "final": "INR 300"
+ },
+ 
+{
+ "id": 3,
+ "name": "Clementine Bauch",
+ "description": "Desc Clementine Bauch",
+ "price": "USD 45",
+ "unit": "Post-container",
+ "tax": "28%",
+ "exchange": 3000,
+ "final": "INR 600"
+ },
+ 
+{
+ "id": 4,
+ "name": "Patricia Lebsack",
+ "description": "Desc Patricia Lebsack",
+ "price": "USD 15",
+ "unit": "Re-container",
+ "tax": "8%",
+ "exchange": 10,
+ "final": "INR 50"
+ },
+ 
+{
+ "id": 5,
+ "name": "Chelsey Dietrich",
+ "description": "Desc Chelsey Dietrich",
+ "price": "USD 55",
+ "unit": "Post-container",
+ "tax": "28%",
+ "exchange": 6000,
+ "final": "INR 10000"
+ },
+]
